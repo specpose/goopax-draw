@@ -3,7 +3,6 @@
 #include <goopax_draw/particle/pipeline/particle.hpp>
 
 #include "../shaders/particles.frag.spv.cpp"
-#include "../shaders/particles.vert.spv.cpp"
 #include "../shaders/particles_pot.vert.spv.cpp"
 
 using namespace goopax;
