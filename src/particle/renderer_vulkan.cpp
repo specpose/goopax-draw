@@ -1,7 +1,6 @@
 #include <goopax_extra/output.hpp>
 #include <goopax_extra/param.hpp>
 
-
 #define GLM_FORCE_DEPTH_ZERO_TO_ONE
 #include <filesystem>
 #include <fstream>
